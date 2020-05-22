@@ -1,11 +1,11 @@
 ## Custom Keybindings
-```Cmd + <``` move tab left
+```cmd + <``` move tab left
 
-```Cmd + > ``` move tab right
+```cmd + > ``` move tab right
 
-```Cmd + ctrl + > ``` move code to right tab
+```shift + cmd + > ``` move code to right tab
 
-```Cmd + ctrl + <``` move code to left tab
+```shift + cmd + <``` move code to left tab
 
 
 ## Existing but important
