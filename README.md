@@ -11,7 +11,7 @@
 ## Existing but important
 ```Ctrl + g``` go to line number
 
-``Cmd + W``` close current file.
+```Cmd + W``` close current file.
 
 ```Cmd + B ``` Close left side bar
 
