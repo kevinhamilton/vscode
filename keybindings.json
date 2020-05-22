@@ -1,0 +1,69 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "shift+cmd+,",
+    "command": "workbench.action.focusLeftGroup"
+  },
+  {
+    "key": "cmd+k cmd+left",
+    "command": "-workbench.action.focusLeftGroup"
+  },
+  {
+    "key": "shift+cmd+.",
+    "command": "workbench.action.focusRightGroup"
+  },
+  {
+    "key": "cmd+k cmd+right",
+    "command": "-workbench.action.focusRightGroup"
+},
+{
+    "key": "alt+cmd+left",
+    "command": "-workbench.action.terminal.focusPreviousPane",
+    "when": "terminalFocus"
+},
+{
+    "key": "cmd+,",
+    "command": "workbench.action.previousEditor"
+},
+{
+    "key": "alt+cmd+left",
+    "command": "-workbench.action.previousEditor"
+},
+{
+    "key": "alt+cmd+right",
+    "command": "-workbench.action.terminal.focusNextPane",
+    "when": "terminalFocus"
+},
+{
+    "key": "cmd+.",
+    "command": "workbench.action.nextEditor"
+},
+{
+    "key": "shift+cmd+]",
+    "command": "-workbench.action.nextEditor"
+},
+{
+    "key": "shift+cmd+.",
+    "command": "workbench.action.nextEditorInGroup"
+},
+{
+    "key": "cmd+k alt+cmd+right",
+    "command": "-workbench.action.nextEditorInGroup"
+},
+{
+    "key": "shift+cmd+,",
+    "command": "workbench.action.moveEditorToPreviousGroup"
+},
+{
+    "key": "ctrl+cmd+left",
+    "command": "-workbench.action.moveEditorToPreviousGroup"
+},
+{
+    "key": "shift+cmd+.",
+    "command": "workbench.action.moveEditorToNextGroup"
+},
+{
+    "key": "ctrl+cmd+right",
+    "command": "-workbench.action.moveEditorToNextGroup"
+}
+]
